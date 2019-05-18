@@ -14,3 +14,11 @@
 2. High-lvel APIs
 3. Integrate Broadly
 
+### Core Vocabulary
+spark 를 배우면서 자주 등장하는 단어
+- Resource Manager : 분산 컴퓨팅에 사용되는 resource (cpu, memory 등) 등을 관리
+    - STANDALONE : spark 내장 cluster manager
+- worker : 일하는 Machine 을 관리
+- RDD : 정형/비정형 데이터의 저장소 (sc - spark context)
+- DataFrame : RDD 와 같은 기능을 하는 데이터의 저장소 이지만, 정형 데이터에 대해서만 사용 (sparksession)
+
