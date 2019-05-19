@@ -15,4 +15,3 @@
 
 ### 2. Download Ubuntu Server Image
 - [Ubuntu](https://www.ubuntu.com/download)
-
