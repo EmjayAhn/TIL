@@ -1,0 +1,11 @@
+[project]
+name = "book-langchain-langgraph-rag-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "langchain-core>=0.3.68",
+    "langchain-openai>=0.3.27",
+    "pydantic>=2.11.7",
+]
